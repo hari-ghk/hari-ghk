@@ -44,7 +44,7 @@ Senior Backend Engineer with 10+ years of experience building scalable distribut
 
 ## 💡 Engineering Philosophy
 
-> *"Simple systems scale. Complex systems fail quietly."*
+> *"Write code for the engineer who maintains it at 2am — it's probably you."*
 
 I believe great backend engineering is about building systems that are observable, resilient, and maintainable — not just systems that work today.
 
