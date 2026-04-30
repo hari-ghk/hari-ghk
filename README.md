@@ -27,7 +27,7 @@ Senior Backend Engineer with 10+ years of experience building scalable distribut
 
 ## 🔍 What I'm Working On
 
-- 📚 Sharpening DSA skills — working through **NeetCode 150** with a focus on pattern recognition
+- 📚 Sharpening DSA skills
 - 🏗 Deepening system design knowledge for large-scale distributed systems
 - 🐍 Expanding on my knowledge on AI, building scalable cost effective AI systems
 
